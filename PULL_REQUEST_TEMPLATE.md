@@ -1,7 +1,5 @@
-<!-- .github/PULL_REQUEST_TEMPLATE.md -->
-
 # Pull Request Description
-Provide a brief summary of the changes in this pull request, including relevant context and motivation.
+Provide a brief summary of the changes in this pull request, including relevant context and motivation:
 
 ---
 
